@@ -1,4 +1,4 @@
-# Project Management System Platform
+# Project Management System
 
 ## Overview
 
@@ -118,5 +118,5 @@ These technologies together provide a comprehensive solution for managing projec
    Open your browser and navigate to http://localhost:5173 to view the frontend application.
 
 ### Demo
-View a live demo of the application at https://streamable.com/8mdspo
+View a live demo of the application at (https://drive.google.com/file/d/1ZphdXop4QNH05UsCZ3PeGNkEvC69WqWX/view?usp=drive_link)
 
